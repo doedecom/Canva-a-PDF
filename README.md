@@ -4,6 +4,10 @@ Aplicación de escritorio para convertir presentaciones de **Canva** en un únic
 
 <img width="591" height="426" alt="image" src="https://github.com/user-attachments/assets/f49a5b99-6899-48ae-82c8-f7220496c9f3" />
 
+---
+## Descarga
+
+[![GitHub All Releases](https://img.shields.io/github/v/release/doedecom/Canva-a-PDF?style=for-the-badge)](https://github.com/doedecom/Canva-a-PDF/releases/latest)
 
 ---
 
