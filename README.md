@@ -175,6 +175,7 @@ Reduce el tiempo de espera o exporta menos diapositivas por ejecución.
 * PyQt5
 * Playwright
 * PyPDF
+* Chromium
 
 ---
 
